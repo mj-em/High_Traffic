@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/80183d1db70e4b8ea40a0074993d33cc/artifacts
+end_time: 1701967547458
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 80183d1db70e4b8ea40a0074993d33cc
+run_name: popular-mink-557
+run_uuid: 80183d1db70e4b8ea40a0074993d33cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701967544823
+status: 3
+tags: []
+user_id: repl

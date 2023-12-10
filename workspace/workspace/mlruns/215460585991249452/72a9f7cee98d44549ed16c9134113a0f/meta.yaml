@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/72a9f7cee98d44549ed16c9134113a0f/artifacts
+end_time: 1701961535906
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 72a9f7cee98d44549ed16c9134113a0f
+run_name: traveling-sloth-742
+run_uuid: 72a9f7cee98d44549ed16c9134113a0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701961524501
+status: 3
+tags: []
+user_id: repl

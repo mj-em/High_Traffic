@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/b53df8b9a86b4147ba10988978470cb6/artifacts
+end_time: 1701969578576
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: b53df8b9a86b4147ba10988978470cb6
+run_name: serious-hen-309
+run_uuid: b53df8b9a86b4147ba10988978470cb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701969575001
+status: 3
+tags: []
+user_id: repl

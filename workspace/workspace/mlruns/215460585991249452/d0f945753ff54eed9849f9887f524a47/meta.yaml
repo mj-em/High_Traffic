@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/d0f945753ff54eed9849f9887f524a47/artifacts
+end_time: 1701969808373
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: d0f945753ff54eed9849f9887f524a47
+run_name: handsome-wolf-691
+run_uuid: d0f945753ff54eed9849f9887f524a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701969805380
+status: 3
+tags: []
+user_id: repl

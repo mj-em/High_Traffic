@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/e105efe1260548e48b488bd7ca4345ec/artifacts
+end_time: 1701965696973
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: e105efe1260548e48b488bd7ca4345ec
+run_name: honorable-shrew-423
+run_uuid: e105efe1260548e48b488bd7ca4345ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701965685451
+status: 3
+tags: []
+user_id: repl

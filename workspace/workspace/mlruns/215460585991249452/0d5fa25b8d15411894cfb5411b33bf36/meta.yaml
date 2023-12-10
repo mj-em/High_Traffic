@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/0d5fa25b8d15411894cfb5411b33bf36/artifacts
+end_time: 1701961544873
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 0d5fa25b8d15411894cfb5411b33bf36
+run_name: vaunted-hawk-130
+run_uuid: 0d5fa25b8d15411894cfb5411b33bf36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701961538968
+status: 3
+tags: []
+user_id: repl

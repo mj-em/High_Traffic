@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/de53e22e394c4dfc86795f4905bd7be4/artifacts
+end_time: 1701969602781
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: de53e22e394c4dfc86795f4905bd7be4
+run_name: upset-kite-771
+run_uuid: de53e22e394c4dfc86795f4905bd7be4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701969599931
+status: 3
+tags: []
+user_id: repl

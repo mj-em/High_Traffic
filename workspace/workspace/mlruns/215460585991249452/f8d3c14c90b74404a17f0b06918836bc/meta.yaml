@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/f8d3c14c90b74404a17f0b06918836bc/artifacts
+end_time: 1701969593723
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: f8d3c14c90b74404a17f0b06918836bc
+run_name: adaptable-duck-988
+run_uuid: f8d3c14c90b74404a17f0b06918836bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701969590565
+status: 3
+tags: []
+user_id: repl

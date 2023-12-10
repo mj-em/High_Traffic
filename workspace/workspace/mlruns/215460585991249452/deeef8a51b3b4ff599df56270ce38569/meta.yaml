@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/deeef8a51b3b4ff599df56270ce38569/artifacts
+end_time: 1701965708997
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: deeef8a51b3b4ff599df56270ce38569
+run_name: skillful-skink-731
+run_uuid: deeef8a51b3b4ff599df56270ce38569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701965706251
+status: 3
+tags: []
+user_id: repl

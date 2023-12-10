@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/8fc2672d4bcb4eb9b43c84405a68212b/artifacts
+end_time: 1701969805359
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 8fc2672d4bcb4eb9b43c84405a68212b
+run_name: burly-toad-105
+run_uuid: 8fc2672d4bcb4eb9b43c84405a68212b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701969794034
+status: 3
+tags: []
+user_id: repl

@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/9b9ddff5e787476f800e7b98930f3da2/artifacts
+end_time: 1701961547576
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 9b9ddff5e787476f800e7b98930f3da2
+run_name: agreeable-hog-663
+run_uuid: 9b9ddff5e787476f800e7b98930f3da2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701961544895
+status: 3
+tags: []
+user_id: repl

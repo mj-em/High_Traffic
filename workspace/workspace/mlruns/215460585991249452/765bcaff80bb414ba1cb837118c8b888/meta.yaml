@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/765bcaff80bb414ba1cb837118c8b888/artifacts
+end_time: 1701967562160
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 765bcaff80bb414ba1cb837118c8b888
+run_name: delicate-vole-640
+run_uuid: 765bcaff80bb414ba1cb837118c8b888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701967559139
+status: 3
+tags: []
+user_id: repl

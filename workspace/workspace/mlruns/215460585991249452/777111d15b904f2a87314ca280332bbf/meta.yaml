@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/777111d15b904f2a87314ca280332bbf/artifacts
+end_time: 1701969817090
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 777111d15b904f2a87314ca280332bbf
+run_name: skittish-hare-290
+run_uuid: 777111d15b904f2a87314ca280332bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701969814468
+status: 3
+tags: []
+user_id: repl

@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/3c90d980c949482098f9e75e73a258a4/artifacts
+end_time: 1701969814446
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 3c90d980c949482098f9e75e73a258a4
+run_name: fearless-foal-254
+run_uuid: 3c90d980c949482098f9e75e73a258a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701969808393
+status: 3
+tags: []
+user_id: repl

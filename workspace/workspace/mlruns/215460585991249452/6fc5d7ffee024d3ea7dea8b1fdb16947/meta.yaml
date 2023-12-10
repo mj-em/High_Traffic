@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/6fc5d7ffee024d3ea7dea8b1fdb16947/artifacts
+end_time: 1701962792530
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 6fc5d7ffee024d3ea7dea8b1fdb16947
+run_name: delicate-pig-505
+run_uuid: 6fc5d7ffee024d3ea7dea8b1fdb16947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701962780967
+status: 3
+tags: []
+user_id: repl

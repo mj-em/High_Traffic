@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/8adcbd0506cc4f7c90eb0111a5bdc077/artifacts
+end_time: 1701967559119
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 8adcbd0506cc4f7c90eb0111a5bdc077
+run_name: rare-stag-651
+run_uuid: 8adcbd0506cc4f7c90eb0111a5bdc077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701967547482
+status: 3
+tags: []
+user_id: repl

@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/5a743591d73946ff82881151171d2f70/artifacts
+end_time: 1701969794013
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 5a743591d73946ff82881151171d2f70
+run_name: spiffy-whale-837
+run_uuid: 5a743591d73946ff82881151171d2f70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701969790466
+status: 3
+tags: []
+user_id: repl

@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/704020fbba7c4a56927e9f3ecae3f955/artifacts
+end_time: 1701969599909
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: 704020fbba7c4a56927e9f3ecae3f955
+run_name: big-dolphin-185
+run_uuid: 704020fbba7c4a56927e9f3ecae3f955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701969593744
+status: 3
+tags: []
+user_id: repl

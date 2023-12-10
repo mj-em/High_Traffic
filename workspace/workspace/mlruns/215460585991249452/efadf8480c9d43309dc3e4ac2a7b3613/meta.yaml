@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/215460585991249452/efadf8480c9d43309dc3e4ac2a7b3613/artifacts
+end_time: 1701967571067
+entry_point_name: ''
+experiment_id: '215460585991249452'
+lifecycle_stage: active
+run_id: efadf8480c9d43309dc3e4ac2a7b3613
+run_name: crawling-shoat-618
+run_uuid: efadf8480c9d43309dc3e4ac2a7b3613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701967568330
+status: 3
+tags: []
+user_id: repl
